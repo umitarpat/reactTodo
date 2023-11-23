@@ -1,12 +1,6 @@
 {
   "todos": [
     {
-      "todoText": "Clean car",
-      "completed": false,
-      "important": true,
-      "id": 11
-    },
-    {
       "id": 3,
       "todoText": "Wash clothes",
       "completed": true,
